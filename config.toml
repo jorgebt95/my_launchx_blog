@@ -1,4 +1,4 @@
-baseURL = "https://jorgebt95.github.io/my_launchx_blog/"
+baseURL = "https://jorgebt95.github.io/my_launchx_blog/docs/"
 languageCode = "en-us"
 title = "Bitácora de Viaje de Jorge Barrientos"
 theme = "hugo-winston-theme"
