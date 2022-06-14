@@ -1,9 +1,9 @@
 ---
-title: Launch X Bitácora de viaje
-description: The hallway smelt of boiled cabbage and old rag mats.
+title: Jorge Barrientos
+description: Check out my portfolio
 ---
 
-Hola ✌️  soy el explorer **Jorge Barrientos** y este es mi blog personal donde compartiré mis aventuras de Launch X.
+Hola ✌️  soy **Jorge Barrientos** y este es mi portafolio de trabajo personal donde compartiré mis trabajos.
 
 Te invito a conocer mis aprendizajes y leer mis experiencias.
 
